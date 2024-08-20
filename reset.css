@@ -1,0 +1,19 @@
+*{
+box-sizing: border-box;
+margin: 0;
+}
+
+a  {
+text-decoration: none;
+color: aliceblue;
+}
+
+.container{
+width: 1200px;
+margin: 0 auto; 
+}
+
+
+li {
+list-style:none ;    
+}
